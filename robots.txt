@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow: https://evemassage.ch/impressum.html
+Disallow: https://evemassage.ch/daten.html
+
+Sitemap: https://evemassage.ch/sitemap.xml
